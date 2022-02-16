@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: fa21b3bb-676c-bfff-39c2-34691080cfd7
 ---
@@ -7,16 +9,16 @@ uid: fa21b3bb-676c-bfff-39c2-34691080cfd7
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 WEEK #
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 CURRICULUM FOCUS
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen rowspan="2" >}}
 IN-CLASS ACTIVITIES
 {{< thclose >}}
-{{< thopen >}}
+{{< thopen colspan="4" >}}
 Major video project components underway
 {{< thclose >}}
 

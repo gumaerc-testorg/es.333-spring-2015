@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
 title: Lie Video
 uid: 88825a23-1eb4-ea73-73fa-effb651fab4c

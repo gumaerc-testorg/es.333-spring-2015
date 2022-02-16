@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f04c37b7-2f5a-f288-3960-fb9a2fc0742e
 title: Reflections
 uid: 1dabfba9-2099-ccb1-8b90-d72992f6ef1a
