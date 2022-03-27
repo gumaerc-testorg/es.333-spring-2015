@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Video
 parent_type: CourseSection
+parent_uid: 626d1541-7fc7-668e-a7fb-4f71f5cedbfe
 resourcetype: Document
 title: Timeline & Task List Template
 uid: db9e3ae4-8299-f4cd-dcd2-052d76d4a5cb

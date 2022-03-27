@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Video
 parent_type: CourseSection
+parent_uid: 626d1541-7fc7-668e-a7fb-4f71f5cedbfe
 resourcetype: Document
 title: Proposal Rating Table
 uid: c326eb8d-125d-fec3-a7af-da68b6113816

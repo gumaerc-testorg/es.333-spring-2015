@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Video
 parent_type: CourseSection
+parent_uid: 626d1541-7fc7-668e-a7fb-4f71f5cedbfe
 resourcetype: Document
 title: Idea Selection Table
 uid: cce4d478-414e-5152-535e-c119c37ca01a
