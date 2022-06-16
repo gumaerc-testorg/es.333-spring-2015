@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "Instructions and due dates for an assignment to create a 6\u201310 minute\
+  \ educational video, focusing on and explaining a topic of your choosing."
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 626d1541-7fc7-668e-a7fb-4f71f5cedbfe
 
 Create a 6–10 minute educational video, focusing on and explaining a topic of your choosing. The topic should ideally be based on some aspect of your MIT academic expertise, but we encourage you to consider a wide range of specificity and characteristics (anything from "Newton's law" to "how to decorate a dorm room"). Ultimately, your video will be published online and presented at a public viewing. Your hairy arm and lie videos should be on the same topic and may be included in your final video if you so choose.
 
-Several examples of final videos from students in the course are linked on the [Student Projects]({{< baseurl >}}/pages/student-projects) page.
+Several examples of final videos from students in the course are linked on the {{% resource_link 5328e1d4-cdd6-2817-e9cf-623e0aa39b24 "Student Projects" %}} page.
 
 The video will be due in stages throughout the semester:
 
@@ -30,14 +32,14 @@ Topic Selection & Pitch Prep – Due Week 3, Session 1
 
 ### Idea Selection
 
-*   Fill out the [Idea Selection Table (PDF)]({{< baseurl >}}/resources/mites_333s15_idea-selectn) with your five potential projects in the leftmost column and at least three selection criteria of your choosing in the top row.
+*   Fill out the {{% resource_link cce4d478-414e-5152-535e-c119c37ca01a "Idea Selection Table (PDF)" %}} with your five potential projects in the leftmost column and at least three selection criteria of your choosing in the top row.
 *   Determine the importance of each of the selection criteria for you.
 *   In the box at the intersection of each potential project and each selection criteria, indicate whether the project satisfies this criterion better (+), similarly (x), or more poorly (-) than the baseline project. There is no consensus regarding a baseline educational video—we suggest a Khan Academy style video, but you may choose a different one if you prefer.
 *   Determine the weighted "wholesomeness" of the projects. You are under no obligation to pick the most wholesome project, but if the most wholesome project differs from the one you want to pick, you need to justify this.
 
 ### Justifying Your Choice
 
-*   Fill out the [Proposal Rating Table (PDF)]({{< baseurl >}}/resources/mites_333s15_propsl-ratng). Doing so should provide you with a plethora of content and a number of plausible structures for pitching your video.
+*   Fill out the {{% resource_link c326eb8d-125d-fec3-a7af-da68b6113816 "Proposal Rating Table (PDF)" %}}. Doing so should provide you with a plethora of content and a number of plausible structures for pitching your video.
 *   Sketch out an image you can (will\_ draw on the blackboard and use to support your pitch).
 *   Prepare an informal oral presentation for your fellow ES.333 students that explains what you are planning as a semester project. Your purpose is twofold:
     *   To inform the audience so they can respond, and
@@ -114,7 +116,7 @@ Storyboard the revised script. A storyboard is a script that is annotated with a
 Project Plan – Due Week 8
 -------------------------
 
-1.  Using the [Timeline & Task List Template (PDF)]({{< baseurl >}}/resources/mites_333s15_project-plan), sketch out your project. Print out as many copies of template as needed to sketch out your entire video from start to finish.
+1.  Using the {{% resource_link db9e3ae4-8299-f4cd-dcd2-052d76d4a5cb "Timeline & Task List Template (PDF)" %}}, sketch out your project. Print out as many copies of template as needed to sketch out your entire video from start to finish.
 2.  If you feel that a Gannt chart will be useful to you in planning your project, please include one with this assignment.
 3.  Once you have completed your timeline & task list template, use the information on the template to complete the calendar of deliverables (attached). This calendar will become your guide for the remaining ES.333 homework assignments. You will be responsible for and graded on the deliverables each week that you outline on this calendar. Include the audience preview, the finished video, and the premiere event.
 
@@ -130,7 +132,7 @@ Review of 2 Draft Videos – Due Week 12
 2.  For each of the two videos, create a numbered list of "action-able" items that are helpful to the producer of the video in creating a work that will be of excellent quality for the official premiere. Think carefully about what will be most useful to your reviewee. Action-able suggestions might include things like instructions about improving sound quality, animations, improving transitions, dealing with color corrections, adding or removing text overlay for clarity, etc. Be as detailed as you can. The objective here is to supply honest and specific information that will help improve the final product.
 3.  Write a brief prose paragraph (or two) that outlines your overall view of each video. Discuss what you think works and what doesn't. This is an opportunity for you to elucidate about action items from your numbered list if they merit further discussion.
 4.  Finally, at the end of your review form you will find a list of topics (axes) taken from past ES.333 video reviews. For each action item in your numbered list, go back and add \[at the end in brackets\] the word that best describes the category for the change you are suggesting. If you do not find a work that fits, add your own.
-5.  E-mail the action lists and the reviews to the video producer. A [Video Review Form (PDF)]({{< baseurl >}}/resources/mites_333s15_peer-review) is provided for you to use as a template.
+5.  E-mail the action lists and the reviews to the video producer. A {{% resource_link b9791227-52a7-f231-04d6-30b00680396f "Video Review Form (PDF)" %}} is provided for you to use as a template.
 6.  Submit the action lists and reviews.
 
 Final Video – Due Week 13, Session 1

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Instructions and due dates for an assignment to create a short video
+  introducing yourself to the ES.333 class, explaining who you are and why you are
+  in this course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

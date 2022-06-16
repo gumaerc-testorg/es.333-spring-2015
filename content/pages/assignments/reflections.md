@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section provides descriptions of reflection assignments designed
+  to give you a chance to stop and think about how your projects are going, what you
+  are learning, and what problems you''re having, along with helping you to plan for
+  future weeks. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,16 +19,16 @@ Along with the four video projects, you will have a number of reflection assignm
 Week 1
 ------
 
-Familiarize yourself with the content of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Designing Digital Video for Learning and Assessment (PDF)](https://aaalab.stanford.edu/assets/papers/2007/Designed_Video_for_Learning.pdf) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Using Video to Tie Engineering Themes to Foundational Concepts (PDF)](https://www.semanticscholar.org/paper/Using-Video-to-Tie-Engineering-Themes-to-Concepts-Shah-French/a76b502d9dbf647e0160509c28dde9f4c27be750). The familiarity with the intersection of education theory and the video medium allows you to better control the educational impact of the videos you produce this semester, and also should help you assess the education component of the videos you analyzed. You should also respond to the CI-H beginning of term questionnaire.
+Familiarize yourself with the content of [Designing Digital Video for Learning and Assessment (PDF)](https://aaalab.stanford.edu/assets/papers/2007/Designed_Video_for_Learning.pdf) and [Using Video to Tie Engineering Themes to Foundational Concepts (PDF)](https://www.semanticscholar.org/paper/Using-Video-to-Tie-Engineering-Themes-to-Concepts-Shah-French/a76b502d9dbf647e0160509c28dde9f4c27be750). The familiarity with the intersection of education theory and the video medium allows you to better control the educational impact of the videos you produce this semester, and also should help you assess the education component of the videos you analyzed. You should also respond to the CI-H beginning of term questionnaire.
 
 Week 2
 ------
 
 In the medium of your choice, reflect on your ES.333 experience so far, especially:
 
-*   How does your experience with the video production cycle (in the collaborative voices video from the first class & [lifestream video]({{< baseurl >}}/pages/assignments/lifestream-video)) guide you as you conceive and design your semester project?
+*   How does your experience with the video production cycle (in the collaborative voices video from the first class & {{% resource_link 0b20ed68-f7ec-7f13-33cf-039611a01f4e "lifestream video" %}}) guide you as you conceive and design your semester project?
 *   You have written two scripts that have been produced; what transformations occur as the text jumps to the video medium?
-*   Which aspect of the reading is most helpful to you as you conceive and design your [semester project]({{< baseurl >}}/pages/assignments/final-video)?
+*   Which aspect of the reading is most helpful to you as you conceive and design your {{% resource_link 626d1541-7fc7-668e-a7fb-4f71f5cedbfe "semester project" %}}?
 *   What feedback that you have received from your peers in class has helped you most as you conceive, design, and propose your project?
 
 Week 3
@@ -32,7 +36,7 @@ Week 3
 
 In the medium of your choice:
 
-*   Outline all of the steps that you have executed and that you plan to execute to produce your [hairy arm video]({{< baseurl >}}/pages/assignments/hairy-arm-video).
+*   Outline all of the steps that you have executed and that you plan to execute to produce your {{% resource_link 4a4773b6-d82c-4374-762a-47c5e52efb86 "hairy arm video" %}}.
 *   Recently, you revised your lifestream video. Comment briefly on your objectives for this revision, the revision you did, and the degree to which the revisions met the objectives.
 *   How has the feedback on the pitch response forms guided your project proposal?
 
