@@ -2,6 +2,7 @@
 content_type: resource
 description: Form used to evaluate potential topics for the final project of the course.
 file: /courses/es-333-producing-educational-videos-spring-2015/cce4d478414e5152535ec119c37ca01a_MITES_333S15_idea-selectn.pdf
+file_size: 223128
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
