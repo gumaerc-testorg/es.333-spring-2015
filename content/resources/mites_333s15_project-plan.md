@@ -3,6 +3,7 @@ content_type: resource
 description: Template for sketching out a timeline and task list for the final project
   of the course.
 file: /courses/es-333-producing-educational-videos-spring-2015/db9e3ae48299f4cddcd2052d76d4a5cb_MITES_333S15_project-plan.pdf
+file_size: 211596
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
