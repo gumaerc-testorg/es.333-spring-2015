@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Form used to evaluate potential topics for the final project of the course.
-file: /courses/es-333-producing-educational-videos-spring-2015/c326eb8d125dfec3a7afda68b6113816_MITES_333S15_propsl-ratng.pdf
+file: /ol-ocw-studio-app/courses/es-333-producing-educational-videos-spring-2015/c326eb8d125dfec3a7afda68b6113816_MITES_333S15_propsl-ratng.pdf
 file_size: 233385
 file_type: application/pdf
 learning_resource_types: []
