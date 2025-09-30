@@ -19,7 +19,7 @@ Along with the four video projects, you will have a number of reflection assignm
 Week 1
 ------
 
-Familiarize yourself with the content of [Designing Digital Video for Learning and Assessment (PDF)](https://aaalab.stanford.edu/assets/papers/2007/Designed_Video_for_Learning.pdf) and [Using Video to Tie Engineering Themes to Foundational Concepts (PDF)](https://www.semanticscholar.org/paper/Using-Video-to-Tie-Engineering-Themes-to-Concepts-Shah-French/a76b502d9dbf647e0160509c28dde9f4c27be750). The familiarity with the intersection of education theory and the video medium allows you to better control the educational impact of the videos you produce this semester, and also should help you assess the education component of the videos you analyzed. You should also respond to the CI-H beginning of term questionnaire.
+Familiarize yourself with the content of {{% resource_link "bfef8483-c180-4002-aaff-dbdf2aa39ccb" "Designing Digital Video for Learning and Assessment (PDF)" %}} and {{% resource_link "efdd1a09-5294-424b-9b39-ddfb4bce2332" "Using Video to Tie Engineering Themes to Foundational Concepts (PDF)" %}}. The familiarity with the intersection of education theory and the video medium allows you to better control the educational impact of the videos you produce this semester, and also should help you assess the education component of the videos you analyzed. You should also respond to the CI-H beginning of term questionnaire.
 
 Week 2
 ------
