@@ -12,10 +12,10 @@ The following videos are selected examples of the work produced by students in t
 
 ## Final Video
 
-{{% resource_link "1b385ef3-c124-4cee-9f41-576c0113303c" "Professor Beaker's Totally Awesome Math and Science Show, Episode 1: \"Probably Improbable\"" %}}
+[Professor Beaker's Totally Awesome Math and Science Show, Episode 1: "Probably Improbable"](https://www.youtube.com/watch?v=GiBBaHKqhuY)
 
-{{% resource_link "9a666678-2440-400b-9465-31b45a9034c9" "Creating Infinite Worlds" %}}
+[Creating Infinite Worlds](https://www.youtube.com/watch?v=sqyhUXL9F3g)
 
-{{% resource_link "aee20a7b-7531-41e2-9efc-abead6a61e28" "An Introduction to Nuclear Magnetic Resonance Spectroscopy" %}}
+[An Introduction to Nuclear Magnetic Resonance Spectroscopy](https://www.youtube.com/watch?v=LgaxmiPfpTU)
 
-{{% resource_link "a6b81f4b-9187-466b-880a-f85173b92112" "Fourier Series: Modeling Nature" %}}
+[Fourier Series: Modeling Nature](https://www.youtube.com/watch?v=Y9pYHDSxc7g)
